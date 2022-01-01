@@ -5,7 +5,7 @@
 ## ''Data Analyst''
 
 
-![Case Study](https://github.com/Armendou/Armendou.github.io/blob/main/StudyCase.pdf)
+[Case Study](https://github.com/Armendou/Armendou.github.io/blob/main/StudyCase.pdf)
 
 
 
