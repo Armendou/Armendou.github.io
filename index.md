@@ -1,8 +1,6 @@
 ## **Armend Mehmetaj**
 
-## -------------------------------------
-
-## **Data Analyst**
+### **Data Analyst**
 
 
 [Case Study as Powerpoint](https://github.com/Armendou/Armendou.github.io/blob/main/StudyCase.pdf) or [Case Study as report](
