@@ -5,6 +5,7 @@
 
 [Case Study as Powerpoint](https://github.com/Armendou/Armendou.github.io/blob/Projects/StudyCase_Cyclistic.pdf) or [Case Study as report](https://github.com/Armendou/Armendou.github.io/blob/Projects/Report_StudyCase_Cyclistic.html)
 
+[Case Studies](https://github.com/Armendou/Armendou.github.io/tree/Projects)
 
 
 
