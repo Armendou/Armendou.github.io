@@ -5,6 +5,7 @@
 
 [Case Study as Powerpoint](https://github.com/Armendou/Armendou.github.io/blob/main/StudyCase.pdf) or [Case Study as report](https://github.com/Armendou/Armendou.github.io/blob/main/Divvy_Trips_2019-Report.html)
 
+[Case Studies](https://github.com/Armendou/Armendou.github.io/tree/Projects)
 
 
 
