@@ -2,12 +2,20 @@
 
 ### **Data Analyst**
 
+<br>
 
-[Case Study as Powerpoint](https://github.com/Armendou/Armendou.github.io/blob/main/projects/Cyclicstic/StudyCase_Cyclistic.pdf) or [Case Study as report](https://github.com/Armendou/Armendou.github.io/blob/main/projects/Cyclicstic/Report_StudyCase_Cyclistic.html)
+### **About**
 
-[Case Studies](https://github.com/Armendou/Armendou.github.io/tree/main/projects)
+Upcoming Data Analyst on Entry Level. 
+
+* [My LinkedIn](https://www.linkedin.com/in/armend-mehmetaj-22b063229/)
+
+* [Case Studies](https://github.com/Armendou/Armendou.github.io/tree/main/projects)
 
 
+<br>
+
+<br>
 
 
 ## Welcome to GitHub Pages
